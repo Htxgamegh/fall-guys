@@ -1,0 +1,24 @@
+Funk Guys Demo team
+Sharv::SharvFNF::Lead Director, Modder::https://twitter.com/SharvFnf::4a4cac
+Neonight::Neonight::Assistant Director, Modder::https://twitter.com/Neonight19::f42592
+RuvStyle::RuvStyle::Assistant Director, Modder::https://twitter.com/RuvStyle::ed223c
+Zynux::Zynux::Assistant Director::https://twitter.com/ZynuxFNF::4d86f0
+DragShot::DragShot::Modder, Programmer, Lua Scripter::https://twitter.com/TheDragShot::77b5b7
+GoddessAwe::GoddessAwe::Composer of "Fallen"::https://twitter.com/GoddessAwe::de447a
+Ooum::Ooum::Vocals for "Fallen"::https://twitter.com/cacdastral::666666
+Punkett::Punkett::Composer of "Final Round"::https://twitter.com/_punkett::93ddd9
+Kyutens::Kyutens::Composer of the menu music::https://twitter.com/KyutensMusic::ac3bac
+Mr. Mosh::mosh::Main Artist::https://www.twitch.tv/the_moshy::FFFFFF
+Anki::Ankinluu::Sprite Artist and Animator, Icons::https://twitter.com/ankinluu_::edecf4
+Mike::Mikefnf::GUI Designer and Artist::https://twitter.com/MikeFnf::bdb8ea
+Cerbera::Cerbera::Charter for "Fallen" and "Final Round"::https://twitter.com/Cerberaa::666666
+
+
+Special Guests
+Swirl::Swirl::V-Tuber star on the rise!::https://twitter.com/suirl_::a468e6
+Maunsten::Maunsten::Meanwhile in Nevada...::https://twitter.com/BlowFNF::ac2532
+Spres::Nafun::That potato on the wall improving our morale::https://twitter.com/NafunVEVO::b6ff00
+
+
+Other contributors
+HaxLua::bf::Chromatic Aberration Script::https://discord.com/channels/922849922175340586/922851578996744252/1000289068871061554::31B0D1
