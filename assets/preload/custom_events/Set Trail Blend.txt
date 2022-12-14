@@ -1,0 +1,8 @@
+Changes the blend mode of the trail for a given
+character.
+
+Value 1: "bf", "dad", "gf" or a mixture of them,
+separated by commas.
+Value 2: The blend mode of your choice, like the
+default "normal". Some popular choices you can try
+are "add" and "multiply".

@@ -1,0 +1,7 @@
+Enables or disables a trail in the same fashion seen
+in VS Selever fanmade and Week 6. Now in Lua!
+
+Value 1: "bf", "dad", "gf" or a mixture of them,
+separated by commas.
+Value 2: "on"/"1"/"true" to enable the effect,
+"off"/"0"/"false" to disable it.

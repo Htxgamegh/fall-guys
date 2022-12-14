@@ -1,0 +1,8 @@
+Shows a couple of black bars at the top and bottom
+of the screen, emulating how widescreen footage
+looks in letterbox mode, aka "shrink to fit".
+
+value1: [0.0 - 1.0] the amount of space the bars take
+on the screen. Setting it to "off" or blank hides them.
+value2: an easing animation of your choice for the
+transition. Optional.

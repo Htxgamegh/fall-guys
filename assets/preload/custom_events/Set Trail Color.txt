@@ -1,0 +1,8 @@
+Changes the color of the trail for a given character.
+
+Value 1: "bf", "dad", "gf" or a mixture of them,
+separated by commas.
+Value 2: The hex RGB color to use for the trail. Leave
+it blank in order to use the colors of each character
+instead, or set to "FFFFFF" in order to apply no
+colors.
