@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				15,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "fall bf idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				22
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "fall bf left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				18
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "fall bf right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fall bf down"
+		},
+		{
+			"offsets": [
+				14,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fall bf up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				21
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "fall bf miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				9
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "fall bf miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				9
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "fall bf miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				21
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "fall bf miss right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				21
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "fall bf hey",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "fall bf scared"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fall_bf",
+	"position": [
+		-250,
+		30
+	],
+	"healthicon": "fall_bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		69,
+		104,
+		240
+	],
+	"camera_position": [
+		320,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

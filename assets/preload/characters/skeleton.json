@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				20,
+				37
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "skeleton idle"
+		},
+		{
+			"offsets": [
+				20,
+				37
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "skeleton left"
+		},
+		{
+			"offsets": [
+				20,
+				37
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "skeleton right"
+		},
+		{
+			"offsets": [
+				20,
+				37
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "skeleton up"
+		},
+		{
+			"offsets": [
+				20,
+				37
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "skeleton down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/skeleton",
+	"position": [
+		-300,
+		-270
+	],
+	"healthicon": "skeleton",
+	"flip_x": false,
+	"healthbar_colors": [
+		58,
+		48,
+		66
+	],
+	"camera_position": [
+		40,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

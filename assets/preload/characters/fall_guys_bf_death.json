@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				11
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "bf fall death first death",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				11
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "bf fall death death confirmed",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				47,
+				11
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "bf fall death death loop",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_fall_death",
+	"position": [
+		-580,
+		-130
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-230,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}
