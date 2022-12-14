@@ -1,0 +1,40 @@
+{
+	"storyName": "FallGuys",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"fallen",
+			"fall_h",
+			[
+				224,
+				21,
+				108
+			]
+		],
+		[
+			"final-round",
+			"skeleton",
+			[
+				58,
+				48,
+				66
+			]
+		]
+	],
+	"weekName": ""
+}
