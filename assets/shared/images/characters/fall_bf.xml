@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fall bf.png"><SubTexture name="fall bf idle0000" x="0" y="0" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf idle0001" x="1028" y="0" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf idle0002" x="2056" y="0" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf idle0003" x="3084" y="0" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf idle0004" x="4112" y="0" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf idle0005" x="5140" y="0" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf idle0006" x="6168" y="0" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf idle0007" x="7196" y="0" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf idle0008" x="8224" y="0" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf idle0009" x="0" y="804" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf idle0010" x="1028" y="804" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf idle0011" x="2056" y="804" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf idle0012" x="3084" y="804" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf idle0013" x="4112" y="804" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf down0000" x="5140" y="804" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf down0001" x="6168" y="804" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf down0002" x="7196" y="804" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf down0003" x="8224" y="804" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf down0004" x="0" y="1608" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf down0005" x="1028" y="1608" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf right0000" x="2056" y="1608" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf right0001" x="3084" y="1608" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf right0002" x="4112" y="1608" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf right0003" x="5140" y="1608" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf right0004" x="6168" y="1608" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf right0005" x="7196" y="1608" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf left0000" x="8224" y="1608" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf left0001" x="0" y="2412" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf left0002" x="1028" y="2412" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf left0003" x="2056" y="2412" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf left0004" x="3084" y="2412" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf left0005" x="4112" y="2412" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf up0000" x="5140" y="2412" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf up0001" x="6168" y="2412" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf up0002" x="7196" y="2412" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf up0003" x="8224" y="2412" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf up0004" x="0" y="3216" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf up0005" x="1028" y="3216" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf up0006" x="2056" y="3216" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf up0007" x="3084" y="3216" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf up0008" x="4112" y="3216" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf up0009" x="5140" y="3216" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf up0010" x="6168" y="3216" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf up0011" x="7196" y="3216" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf up0012" x="8224" y="3216" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf up0013" x="0" y="4020" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf up0014" x="1028" y="4020" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf up0015" x="2056" y="4020" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf miss down0000" x="3084" y="4020" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf miss down0001" x="4112" y="4020" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf miss down0002" x="5140" y="4020" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf miss down0003" x="6168" y="4020" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf miss down0004" x="7196" y="4020" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf miss down0005" x="8224" y="4020" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf miss right0000" x="0" y="4824" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf miss right0001" x="1028" y="4824" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf miss right0002" x="2056" y="4824" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf miss right0003" x="3084" y="4824" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf miss right0004" x="4112" y="4824" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf miss right0005" x="5140" y="4824" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf miss left0000" x="6168" y="4824" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf miss left0001" x="7196" y="4824" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf miss left0002" x="8224" y="4824" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf miss left0003" x="0" y="5628" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf miss left0004" x="1028" y="5628" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf miss left0005" x="2056" y="5628" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf miss up0000" x="3084" y="5628" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf miss up0001" x="4112" y="5628" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf miss up0002" x="5140" y="5628" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf miss up0003" x="6168" y="5628" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf miss up0004" x="7196" y="5628" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf miss up0005" x="8224" y="5628" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf scared0000" x="0" y="6432" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf scared0001" x="1028" y="6432" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf scared0002" x="2056" y="6432" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf scared0003" x="3084" y="6432" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf scared0004" x="4112" y="6432" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf scared0005" x="5140" y="6432" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf scared0006" x="6168" y="6432" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf scared0007" x="7196" y="6432" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf scared0008" x="8224" y="6432" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf scared0009" x="0" y="7236" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf scared0010" x="1028" y="7236" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf scared0011" x="2056" y="7236" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf scared0012" x="3084" y="7236" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf scared0013" x="4112" y="7236" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf hey0000" x="5140" y="7236" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf hey0001" x="6168" y="7236" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf hey0002" x="7196" y="7236" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf hey0003" x="8224" y="7236" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf hey0004" x="0" y="8040" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+<SubTexture name="fall bf hey0005" x="1028" y="8040" width="1028" height="804" frameX="0" frameY="0" frameWidth="1028" frameHeight="804" />
+</TextureAtlas>
